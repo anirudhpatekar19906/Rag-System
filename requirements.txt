@@ -1,0 +1,21 @@
+# PDF Parsing
+pymupdf
+
+# YouTube Transcript & Downloading
+yt-dlp
+openai-whisper
+
+# Embeddings & Vector Store
+sentence-transformers
+faiss-cpu
+
+# LLM (Gemini)
+google-generativeai
+openai
+
+
+# Utilities
+requests
+python-dotenv
+numpy
+tqdm
