@@ -127,6 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ✍️ About the Author
 
 **Anirudh Patekar**
+
 A passionate developer focused on building intelligent systems that bridge the gap between unstructured data and actionable knowledge. 
 
 - GitHub: [@anirudhpatekar](https://github.com/anirudhpatekar)
